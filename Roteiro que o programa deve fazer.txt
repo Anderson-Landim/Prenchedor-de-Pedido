@@ -1,0 +1,11 @@
+1- Colocar configuraçao e pessoa
+2- Deixar marcado o ponto de começo
+_______________________________________
+
+3- Digitar o codigo
+4- Enter 5x
+5- digitar o numero 100
+6- Seta para baixo
+7- Seta para esquerda 8x
+8- Enter
+9- Repetir do 3 ate o 9 ate acabar lista
