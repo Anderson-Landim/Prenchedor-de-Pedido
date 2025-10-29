@@ -9,3 +9,4 @@ _______________________________________
 7- Seta para esquerda 8x
 8- Enter
 9- Repetir do 3 ate o 9 ate acabar lista
+
